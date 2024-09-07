@@ -3,11 +3,12 @@ This tool detects duplicate content in text files, PDFs, and Word documents, fea
 # To install the required libraries, follow these steps:
 1. Open a command Prompt or Terminal on your system.
 2. Type the following commands to install the required libraries:
-"pip install PyPDF2"
-"pip install docx"
+3. "pip install PyPDF2"
+4. "pip install docx"
 # Executing the Python file
 1. Save the python script in as file with a '.py' extension, for example 'plagiarism_detector.py'.
 2. Open command prompt or Terminal on your system.
 3. Navigate to the directory where you saved the python file using the 'cd' command.
 4. Type the following command to execute the Python file:
 "python plagiarism_detector.py"
+ 
